@@ -1,2 +1,2 @@
 My first readme
-love 
+love is good 
